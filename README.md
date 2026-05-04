@@ -1,6 +1,6 @@
 # Guilherme Monteiro
 
-Atualmente estudante de Análise e Desenvolvimento de Sistemas na Estácio (Via Corpvs), com interesse em desenvolvimento de software e criação de soluções eficientes e bem estruturadas. Busco evoluir continuamente por meio de projetos práticos, aplicando boas práticas de desenvolvimento com foco em qualidade e organização.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Estácio (Via Corpvs), com interesse em desenvolvimento de software e na criação de soluções eficientes e bem estruturadas. Busco evoluir continuamente por meio de projetos práticos, aplicando boas práticas de desenvolvimento com foco em qualidade e organização.
 
 ## Tecnologias em estudo e prática
 
